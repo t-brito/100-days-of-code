@@ -1,12 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 5: 5 January 2018
+### Day 6: 6 January 2018
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+
+### Day 5: 5 January 2018
+
+**Today's Progress**: Completed days 0-3 of the [HackerRank 10 Days of JavaScript Tutorial](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+
+**Thoughts**: Exercises are easy, need to pick up the pace and get them out of the way quicker. Found out built-in ``sort()`` method in JavaScript does not sort Numbers properly.
+
+**Link(s) to work**: [My HackerRank profile](https://www.hackerrank.com/t_brito)
 
 
 ### Day 4: 4 January 2018
