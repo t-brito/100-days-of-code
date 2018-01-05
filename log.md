@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 4: 4 January 2018
+### Day 5: 5 January 2018
 
 **Today's Progress**: 
 
@@ -9,9 +9,18 @@
 **Link(s) to work**: 
 
 
+### Day 4: 4 January 2018
+
+**Today's Progress**: Carried on with the JavaScript challenges in the [freeCodeCamp Front End Curriculum](https://www.freecodecamp.com/)
+
+**Thoughts**: Should have coded more; should have worked on second freeCodeCamp project.
+
+**Link(s) to work**: [My freeCodeCamp profile](https://www.freecodecamp.org/t-brito)
+
+
 ### Day 3: 3 January 2018
 
-**Today's Progress**: Completed the remaining challenges and completed the first project of the [freeCodeCamp Front End Curriculum](https://www.freecodecamp.com/)
+**Today's Progress**: Completed the remaining jQuery challenges and completed the first project of the [freeCodeCamp Front End Curriculum](https://www.freecodecamp.com/)
 
 **Thoughts**: Struggled a bit with Bootstrap 3 vs 4 differences. Exercises from freeCodeCamp use v3 and I tried using v4 in the CodePen project.
 
