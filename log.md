@@ -1,12 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 7: 7 January 2018
+### Day 8: 8 January 2018
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+
+### Day 7: 7 January 2018
+
+**Today's Progress**: Completed days 7-9 of the [HackerRank 10 Days of JavaScript Tutorial](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+
+**Thoughts**: Slightly more interesting exercises, still need to pick up the pace.
+
+**Link(s) to work**: [My HackerRank profile](https://www.hackerrank.com/t_brito)
 
 
 ### Day 6: 6 January 2018
