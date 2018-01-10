@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 8: 8 January 2018
+### Day 9: 10 January 2018
 
-**Today's Progress**: 
+**Today's Progress**: Attended [NodeSchool](https://nodeschool.io) event.
 
-**Thoughts**: 
+**Thoughts**: NodeSchool seems awesome, will start doing attempting some of their challenges every day.
 
 **Link(s) to work**: 
+
+### Day 8: 8 January 2018
+
+**Today's Progress**: Carried on with the JavaScript challenges in the [freeCodeCamp Front End Curriculum](https://www.freecodecamp.com/) (24 items)
+
+**Thoughts**: Still too slow...
+
+**Link(s) to work**: [My freeCodeCamp profile](https://www.freecodecamp.org/t-brito)
 
 
 ### Day 7: 7 January 2018
