@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 11: 12 January 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 10: 11 January 2018
+
+**Today's Progress**: Installed stock android on my replacement phone.
+
+**Thoughts**: Not really coding, but learned a few things about fastboot and adb.
+
+**Link(s) to work**: 
+
+
 ### Day 9: 10 January 2018
 
 **Today's Progress**: Attended [NodeSchool](https://nodeschool.io) event.
@@ -7,6 +25,10 @@
 **Thoughts**: NodeSchool seems awesome, will start doing attempting some of their challenges every day.
 
 **Link(s) to work**: 
+
+
+### 9 January 2018 - off sick
+
 
 ### Day 8: 8 January 2018
 
