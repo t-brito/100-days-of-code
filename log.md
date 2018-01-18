@@ -1,8 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 13: 17 January 2018
+### Day 14: 18 January 2018
 
 **Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 13: 17 January 2018
+
+**Today's Progress**: Completed the first 5 exercises from [NodeSchool](https://nodeschool.io)'s module [learnyounode](https://github.com/workshopper/learnyounode).
 
 **Thoughts**: 
 
