@@ -1,12 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 14: 18 January 2018
+### Day 16: 20 January 2018
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+
+### Day 15: 19 January 2018
+
+**Today's Progress**: Carried on with the JavaScript challenges in the [freeCodeCamp Front End Curriculum](https://www.freecodecamp.com/) (11 items)
+
+**Thoughts**: 
+
+**Link(s) to work**: [My freeCodeCamp profile](https://www.freecodecamp.org/t-brito)
+
+
+### Day 14: 18 January 2018
+
+**Today's Progress**: Carried on with the JavaScript challenges in the [freeCodeCamp Front End Curriculum](https://www.freecodecamp.com/) (19 items)
+
+**Thoughts**: 
+
+**Link(s) to work**: [My freeCodeCamp profile](https://www.freecodecamp.org/t-brito)
 
 
 ### Day 13: 17 January 2018
