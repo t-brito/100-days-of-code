@@ -1,12 +1,39 @@
 # 100 Days Of Code - Log
 
-### Day 16: 20 January 2018
+### Day 19: 25 January 2018
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+
+### Day 18: 24 January 2018
+
+**Today's Progress**: Completed 4 exercises from [NodeSchool](https://nodeschool.io)'s module [learnyounode](https://github.com/workshopper/learnyounode).
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 17: 23 January 2018
+
+**Today's Progress**: Completed 1 exercise from [NodeSchool](https://nodeschool.io)'s module [learnyounode](https://github.com/workshopper/learnyounode).
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 16: 21 January 2018
+
+**Today's Progress**: Carried on with the JavaScript challenges in the [freeCodeCamp Front End Curriculum](https://www.freecodecamp.com/) (9 items)
+
+**Thoughts**: 
+
+**Link(s) to work**: [My freeCodeCamp profile](https://www.freecodecamp.org/t-brito)
 
 
 ### Day 15: 19 January 2018
