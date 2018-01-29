@@ -1,10 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 19: 25 January 2018
+### Day 20: 29 January 2018
 
 **Today's Progress**: 
 
 **Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 19: 25 January 2018
+
+**Today's Progress**: (1) finished [NodeSchool](https://nodeschool.io)'s module [learnyounode](https://github.com/workshopper/learnyounode) and started [learnyoureact](https://github.com/workshopper/learnyoureact) module; (2) Attended Advanced React Workshop with LeanJS
+
+**Thoughts**: Workshop a bit too advanced for my level of React at this point, but interesting concepts learned: properties and context, component as function vs. class, Higher order Components...
 
 **Link(s) to work**: 
 
